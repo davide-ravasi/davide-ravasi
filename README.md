@@ -3,19 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davide-ravasi" alt="davide-ravasi" /></a> </p>
 
-- 🔭 I’m currently working on [Memolist app](https://memolist-code-snippets.herokuapp.com/)
+- 🔭 I’m currently working on [Memolist app](https://memolist-code-snippets.herokuapp.com/) and [esbuild online compiler](https://github.com/davide-ravasi/inbrowser-coding-environment)
 
 - 🌱 I’m currently learning **EsBuild, Firestore, Scrum**
-
-- 🔭 I’m currently working on [esbuild online compiler](https://github.com/davide-ravasi/inbrowser-coding-environment)
 
 - 👨‍💻 All of my projects are available at [https://github.com/davide-ravasi](https://github.com/davide-ravasi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/davide_ravasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="davide_ravasi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/davide-ravasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="davide-ravasi" height="30" width="40" /></a>
-<a href="https://discord.gg/davide_ravasi#8663" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="davide_ravasi#8663" height="30" width="40" /></a>
+<a href="https://codepen.io/davide_ravasi" target="blank">Codepen</a>
+<a href="https://linkedin.com/in/davide-ravasi" target="blank">Linkedin</a>
+<a href="https://discord.gg/davide_ravasi#8663" target="blank">Discord</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
