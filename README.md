@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davide-ravasi" alt="davide-ravasi" /></a> </p>
 
-- 🔭 I’m currently working on [Memolist app](https://memolist-code-snippets.herokuapp.com/) and [esbuild online compiler](https://github.com/davide-ravasi/inbrowser-coding-environment)
+- I’m currently working on [Memolist app](https://memolist-code-snippets.herokuapp.com/) and [esbuild online compiler](https://github.com/davide-ravasi/inbrowser-coding-environment)
 
-- 🌱 I’m currently learning **EsBuild, Firestore, Scrum**
+- I’m currently learning **EsBuild, Firestore, Scrum**
 
-- 👨‍💻 All of my projects are available at [https://github.com/davide-ravasi](https://github.com/davide-ravasi)
+- All of my projects are available at [https://github.com/davide-ravasi](https://github.com/davide-ravasi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
