@@ -5,7 +5,7 @@
 
 - I’m currently working on [Memolist app](https://code-snippets-memolist.netlify.app/) and [Bandseeker](http://bandseeker.netlify.app/)
 
-- I’m currently learning **EsBuild, Firestore, Scrum**
+- I’m currently learning **MongoDb, GraphQl, Nodejs**
 
 - All of my projects are available at [https://github.com/davide-ravasi](https://github.com/davide-ravasi)
 
