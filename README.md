@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davide-ravasi&title=Commit,Issues,PullRequest,Repositories" alt="davide-ravasi" /></a> </p>
 
-- I’m currently working on [Memolist app](https://memolist-code-snippets.herokuapp.com/) and [esbuild online compiler](https://github.com/davide-ravasi/inbrowser-coding-environment)
+- I’m currently working on [Memolist app](https://code-snippets-memolist.netlify.app/) and [Bandseeker](http://bandseeker.netlify.app/)
 
 - I’m currently learning **EsBuild, Firestore, Scrum**
 
